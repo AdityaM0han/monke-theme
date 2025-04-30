@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: monke-theme
+description: "monke theme for jekyll"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
